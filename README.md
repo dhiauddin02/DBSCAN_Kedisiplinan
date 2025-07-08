@@ -43,3 +43,4 @@ VITE_FONNTE_TOKEN=your_fonnte_token
 *Sistem ini dikembangkan untuk mendukung monitoring kedisiplinan mahasiswa di Politeknik Negeri Lhokseumawe.*
 
 <!-- Test comment untuk sinkronisasi GitHub - 2025-01-28 -->"# DBSCAN_Kedisiplinan" 
+"# disiplinpnl" 
